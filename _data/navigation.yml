@@ -1,0 +1,7 @@
+main:
+  - title: "Organization"
+    url: /organization/
+  - title: "Data"
+    url: /data/
+  - title: "Github Source"
+    url: https://github.com/EvaJobst/EvaJobst.github.io

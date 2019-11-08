@@ -1,0 +1,23 @@
+lsi: false
+safe: true
+source: ./
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+title: Open Data for Academicians at TU Wien
+url: "https://evajobst.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  EvaJobst
+
+# Build settings
+github: [metadata]
+markdown: kramdown
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+
+include: ["_pages", "assets"]

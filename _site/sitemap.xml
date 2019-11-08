@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/2019/01/01/meeting.html</loc>
+<lastmod>2019-01-01T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/data/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/meetings/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/organization/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/ProjectProposal-v1.pdf</loc>
+<lastmod>2019-11-11T13:49:12+01:00</lastmod>
+</url>
+</urlset>

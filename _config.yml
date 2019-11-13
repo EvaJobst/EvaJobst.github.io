@@ -12,11 +12,12 @@ kramdown:
 title: Open Data for Academicians at TU Wien
 url: "https://evajobst.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  EvaJobst
+github_username:  SomeOtherGithub
 
 # Build settings
 github: [metadata]
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.17.2"
+theme: minima
 plugins:
   - jekyll-feed
 

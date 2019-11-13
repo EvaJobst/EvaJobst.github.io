@@ -2,13 +2,16 @@
 permalink: /organization/
 ---
 
-# Project Proposal
-##### Current Version
+# Organization
 
-##### Previous Versions
+### Project Proposal
+
+#### Current Version
+
+#### Previous Versions
 - 25.10.2019: [Version 1](../../assets/ProjectProposal-v1.pdf)
 
-# Milestones
+### Milestones
 
 | Task | Until |
 |-------|--------|
@@ -23,21 +26,21 @@ permalink: /organization/
 | Final presentation | 24/01/2020 |
 
 
-# Meetings
-##### Date
+### Meetings
+#### Date
 - Time: Beginning - End
 - Attendees: Mohammad Zandpour, Vasilena Kisova, Daniela Shopova, Eva Jobst
 - Agenda
 - Documentation
 
-##### 08/11/2019: Meetup with Lecturers
+#### 08/11/2019: Meetup with Lecturers
 - Time: 14:00 - 14:45
 - Attendees: Mohammad Zandpour, Vasilena Kisova, Daniela Shopova, Eva Jobst, Christoph Derndorfer, Lukas Lang
 - Agenda: Gathering input from lecturers and defining next steps
-- [Documentation](../../assets/ProjectProposal-v1.pdf)
+- [Documentation](../../assets/08-11-2019 Meeting.pdf)
 
 
-#  Time Tracker
+###  Time Tracker
 
 | Feature | Subfeature | Mohammad | Vasilena | Daniela | Eva |
 |-------|--------|--------|--------|--------|--------|
@@ -51,5 +54,5 @@ permalink: /organization/
 | | GitHub Pages setup | | | | 05:00 |
 | **TOTAL** | | 00:00h | 00:00h | 00:00h | 00:00h |
 
-# Decision Log
+### Decision Log
 - We have analysed the challenges of publishing articles to Wikipedia on academics; we have decided against using regiowiki and will shift our project-focus to the dicussion with the editors regarding that matter

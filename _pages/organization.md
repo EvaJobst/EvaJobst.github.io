@@ -2,12 +2,15 @@
 permalink: /organization/
 ---
 
+# Organization
+
 ### Project Proposal
 
 #### Current Version
+- 19.11.2019: [PDF](../../assets/Wiki_project.pdf) [ODT](../../assets/Wiki_project.odt)
 
 #### Previous Versions
-- 25.10.2019: [Version 1](../../assets/ProjectProposal-v1.pdf)
+- 25.10.2019: [PDF](../../assets/ProjectProposal-v1.pdf)
 
 ### Milestones
 

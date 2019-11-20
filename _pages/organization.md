@@ -7,10 +7,10 @@ permalink: /organization/
 ### Project Proposal
 
 #### Current Version
-- 19.11.2019: [PDF](../../assets/Wiki_project.pdf) [ODT](../../assets/Wiki_project.odt)
+- 19.11.2019: [\[PDF\]](../../assets/Wiki_project.pdf) [\[ODT\]](../../assets/Wiki_project.odt)
 
 #### Previous Versions
-- 25.10.2019: [PDF](../../assets/ProjectProposal-v1.pdf)
+- 25.10.2019: [\[PDF\]](../../assets/ProjectProposal-v1.pdf)
 
 ### Milestones
 
@@ -38,10 +38,10 @@ permalink: /organization/
 - [Documentation](../../assets/08-11-2019 Meeting.pdf)
 
 ###  Time Tracker
-- Momo: [Link](../../assets/TimeTables/TimeTable_Momo.ods)
-- Eva: [Link](../../assets/TimeTables/TimeTable_Eva.ods)
-- Vasilena: [Link](../../assets/TimeTables/TimeTable_Vasilena.ods)
-- Daniella: [Link](../../assets/TimeTables/TimeTable_Daniella.ods)
+- Momo: [\[Link\]](../../assets/TimeTables/TimeTable_Momo.ods)
+- Eva: [\[Link\]](../../assets/TimeTables/TimeTable_Eva.ods)
+- Vasilena: [\[Link\]](../../assets/TimeTables/TimeTable_Vasilena.ods)
+- Daniella: [\[Link\]](../../assets/TimeTables/TimeTable_Daniella.ods)
 
 ### Decision Log
 [20/11/2019] - We gathered 3 online sources that contain information on Geraldine Fitzpatrick. Vasilena, Daniella and Momo will attempt to extract, translate and rewrite all relevant information until Saturday 23/11/2019. The Milestones will be updated accordingly.

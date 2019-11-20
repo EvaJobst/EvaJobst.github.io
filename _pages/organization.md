@@ -2,8 +2,6 @@
 permalink: /organization/
 ---
 
-# Organization
-
 ### Project Proposal
 
 #### Current Version

@@ -15,15 +15,15 @@ permalink: /organization/
 
 | Task | Until |
 |-------|--------|
-| Group forming & topic selection | 25/10/19 |
-| Meetup with Lecturers | 08/11/2019 |
-| Wikipedia Meetup | 10/11/2019 |
-| Attempt to publish first article | 23/11/2019 |
-| Meetup with Lecturers | 29/11/2019 |
-| Attempt to publish third article | 10/01/2020 |
-| Meetup with Lecturers | 10/01/2020 |
-| Attempt to publish fourth article | 17/01/2020 |
-| Final presentation | 24/01/2020 |
+| Group forming & topic selection | 25/10/19 | DONE |
+| Meetup with Lecturers | 08/11/2019 | DONE |
+| Wikipedia Meetup | 10/11/2019 | DONE |
+| Attempt to publish first article | 27/11/2019 | ONGOING |
+| Meetup with Lecturers | 29/11/2019 | - |
+| Attempt to publish third article | 10/01/2020 | - |
+| Meetup with Lecturers | 10/01/2020 | - |
+| Attempt to publish fourth article | 17/01/2020 | - |
+| Final presentation | 24/01/2020 | - |
 
 
 ### Meetings
@@ -55,4 +55,5 @@ permalink: /organization/
 | **TOTAL** | | 00:00h | 00:00h | 00:00h | 00:00h |
 
 ### Decision Log
-- We have analysed the challenges of publishing articles to Wikipedia on academics; we have decided against using regiowiki and will shift our project-focus to the dicussion with the editors regarding that matter
+20/11/2019 - We gathered 3 online sources that contain information on Geraldine Fitzpatrick. Vasilena, Daniella and Momo will attempt to extract, translate and rewrite all relevant information until Saturday 23/11/2019. The Milestones will be updated accordingly.
+12/11/2019 - We have analysed the challenges of publishing articles to Wikipedia on academics; we have decided against using regiowiki and will shift our project-focus to the discussion with the editors regarding that matter

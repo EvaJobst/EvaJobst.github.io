@@ -48,15 +48,16 @@ permalink: /organization/
 | Feature | Subfeature | Mohammad | Vasilena | Daniela | Eva |
 |-------|--------|--------|--------|--------|--------|
 | Meetings |
-| | Internal | | | | 00:20 |
+| | Internal | | | | 00h 20m |
 | | Wikipedia Meetup | | | | |
-| | Meetup with lecturers | | | | 00:45 |
+| | Meetup with lecturers | | | | 00h 45m |
 | Misc. |
 | | Topic selection | | | | |
-| | Documentation | | | | 00:45 |
-| | GitHub Pages setup | | | | 05:00 |
-| **TOTAL** | | 00:00h | 00:00h | 00:00h | 00:00h |
+| | Documentation | | | | 00h 45m |
+| | GitHub Pages setup | | | | 05h 00m |
+| **TOTAL** | | 00h 00m | 00h 00m | 00h 00m | 00h 00m |
 
 ### Decision Log
-- [20/11/2019] - We gathered 3 online sources that contain information on Geraldine Fitzpatrick. Vasilena, Daniella and Momo will attempt to extract, translate and rewrite all relevant information until Saturday 23/11/2019. The Milestones will be updated accordingly.
-- [12/11/2019] - We have analysed the challenges of publishing articles to Wikipedia on academics; we have decided against using regiowiki and will shift our project-focus to the discussion with the editors regarding that matter
+[20/11/2019] - We gathered 3 online sources that contain information on Geraldine Fitzpatrick. Vasilena, Daniella and Momo will attempt to extract, translate and rewrite all relevant information until Saturday 23/11/2019. The Milestones will be updated accordingly.
+
+[12/11/2019] - We have analysed the challenges of publishing articles to Wikipedia on academics; we have decided against using regiowiki and will shift our project-focus to the discussion with the editors regarding that matter

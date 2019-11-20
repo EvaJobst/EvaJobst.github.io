@@ -55,5 +55,5 @@ permalink: /organization/
 | **TOTAL** | | 00:00h | 00:00h | 00:00h | 00:00h |
 
 ### Decision Log
-20/11/2019 - We gathered 3 online sources that contain information on Geraldine Fitzpatrick. Vasilena, Daniella and Momo will attempt to extract, translate and rewrite all relevant information until Saturday 23/11/2019. The Milestones will be updated accordingly.
-12/11/2019 - We have analysed the challenges of publishing articles to Wikipedia on academics; we have decided against using regiowiki and will shift our project-focus to the discussion with the editors regarding that matter
+- 20/11/2019 - We gathered 3 online sources that contain information on Geraldine Fitzpatrick. Vasilena, Daniella and Momo will attempt to extract, translate and rewrite all relevant information until Saturday 23/11/2019. The Milestones will be updated accordingly.
+- 12/11/2019 - We have analysed the challenges of publishing articles to Wikipedia on academics; we have decided against using regiowiki and will shift our project-focus to the discussion with the editors regarding that matter

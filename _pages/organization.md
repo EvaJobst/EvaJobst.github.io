@@ -28,7 +28,6 @@ permalink: /organization/
 | Attempt to publish fourth article | 17/01/2020 | - |
 | Final presentation | 24/01/2020 | - |
 
-
 ### Meetings
 #### Date
 - Time: Beginning - End
@@ -45,17 +44,13 @@ permalink: /organization/
 
 ###  Time Tracker
 
-| Feature | Subfeature | Mohammad | Vasilena | Daniela | Eva |
-|-------|--------|--------|--------|--------|--------|
-| Meetings |
-| | Internal | | | | 00h 20m |
-| | Wikipedia Meetup | | | | |
-| | Meetup with lecturers | | | | 00h 45m |
-| Misc. |
-| | Topic selection | | | | |
-| | Documentation | | | | 00h 45m |
-| | GitHub Pages setup | | | | 05h 00m |
-| **TOTAL** | | 00h 00m | 00h 00m | 00h 00m | 00h 00m |
+Momo: https://ethercalc.org/oyrpm29lk3c1
+
+Eva: 
+
+Vasilena: 
+
+Daniella: 
 
 ### Decision Log
 [20/11/2019] - We gathered 3 online sources that contain information on Geraldine Fitzpatrick. Vasilena, Daniella and Momo will attempt to extract, translate and rewrite all relevant information until Saturday 23/11/2019. The Milestones will be updated accordingly.

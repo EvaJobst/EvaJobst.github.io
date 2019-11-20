@@ -43,14 +43,10 @@ permalink: /organization/
 
 
 ###  Time Tracker
-
-Momo: [Link](../../assets/TimeTables/TimeTable_Momo.ods)
-
-Eva: 
-
-Vasilena: 
-
-Daniella: 
+- Momo: [Link](../../assets/TimeTables/TimeTable_Momo.ods)
+- Eva: [Link](../../assets/TimeTables/TimeTable_Eva.ods)
+- Vasilena: [Link](../../assets/TimeTables/TimeTable_Vasilena.ods)
+- Daniella: [Link](../../assets/TimeTables/TimeTable_Daniella.ods)
 
 ### Decision Log
 [20/11/2019] - We gathered 3 online sources that contain information on Geraldine Fitzpatrick. Vasilena, Daniella and Momo will attempt to extract, translate and rewrite all relevant information until Saturday 23/11/2019. The Milestones will be updated accordingly.

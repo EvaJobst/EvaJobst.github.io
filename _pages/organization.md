@@ -30,18 +30,12 @@ permalink: /organization/
 | Final presentation | 24/01/2020 | - |
 
 ### Meetings
-#### Date
-- Time: Beginning - End
-- Attendees: Mohammad Zandpour, Vasilena Kisova, Daniela Shopova, Eva Jobst
-- Agenda
-- Documentation
 
 #### 08/11/2019: Meetup with Lecturers
 - Time: 14:00 - 14:45
 - Attendees: Mohammad Zandpour, Vasilena Kisova, Daniela Shopova, Eva Jobst, Christoph Derndorfer, Lukas Lang
 - Agenda: Gathering input from lecturers and defining next steps
 - [Documentation](../../assets/08-11-2019 Meeting.pdf)
-
 
 ###  Time Tracker
 - Momo: [Link](../../assets/TimeTables/TimeTable_Momo.ods)

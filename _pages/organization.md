@@ -7,10 +7,10 @@ permalink: /organization/
 ### Project Proposal
 
 #### Current Version
-- 19.11.2019: [\[PDF\]](../../assets/Wiki_project.pdf) [\[ODT\]](../../assets/Wiki_project.odt)
+- 19.11.2019: [\[PDF\]](../../assets/ProjectProposals/Wiki_project.pdf) [\[ODT\]](../../assets/ProjectProposals/Wiki_project.odt)
 
 #### Previous Versions
-- 25.10.2019: [\[PDF\]](../../assets/ProjectProposal-v1.pdf)
+- 25.10.2019: [\[PDF\]](../../assets/ProjectProposals/ProjectProposal-v1.pdf)
 
 ### Milestones
 
@@ -31,19 +31,27 @@ permalink: /organization/
 
 ### Meetings
 
+#### 19/11/2019: Meetup after Metalab excursion
+- Time: 19:00 - 20:35
+- Attendees: Mohammad Zandpour, Vasilena Kisova, Eva Jobst
+- Agenda: Updating proposal, discussing candidate for our first article & developing a method to split up work
+- Documentation: [\[PDF\]](../../assets/MeetingDocuments/19-11-2019 Meeting.pdf) [\[ODT\]](../../assets/MeetingDocuments/19-11-2019 Meeting.odt)
+
 #### 08/11/2019: Meetup with Lecturers
 - Time: 14:00 - 14:45
 - Attendees: Mohammad Zandpour, Vasilena Kisova, Daniela Shopova, Eva Jobst, Christoph Derndorfer, Lukas Lang
 - Agenda: Gathering input from lecturers and defining next steps
-- [Documentation](../../assets/08-11-2019 Meeting.pdf)
+- Documentation: [\[PDF\]](../../assets/MeetingDocuments/08-11-2019 Meeting.pdf) [\[ODT\]](../../assets/MeetingDocuments/08-11-2019 Meeting.odt)
 
 ###  Time Tracker
-- Momo: [\[Link\]](../../assets/TimeTables/TimeTable_Momo.ods)
-- Eva: [\[Link\]](../../assets/TimeTables/TimeTable_Eva.ods)
-- Vasilena: [\[Link\]](../../assets/TimeTables/TimeTable_Vasilena.ods)
-- Daniella: [\[Link\]](../../assets/TimeTables/TimeTable_Daniella.ods)
+- Momo: [\[ODS\]](../../assets/TimeTables/TimeTable_Momo.ods)
+- Eva: [\[ODS\]](../../assets/TimeTables/TimeTable_Eva.ods)
+- Vasilena: [\[ODS\]](../../assets/TimeTables/TimeTable_Vasilena.ods)
+- Daniella: [\[ODS\]](../../assets/TimeTables/TimeTable_Daniella.ods)
 
 ### Decision Log
+[21/11/2019] - We now offer time-tables as "OpenOffice Calc" Documents to better track the time spent of individual members on various tasks. Also, we now provide various documents as PDF and OpenOffice documents for better accessibility.
+
 [20/11/2019] - We gathered 3 online sources that contain information on Geraldine Fitzpatrick. Vasilena, Daniella and Momo will attempt to extract, translate and rewrite all relevant information until Saturday 23/11/2019. The Milestones will be updated accordingly.
 
 [12/11/2019] - We have analysed the challenges of publishing articles to Wikipedia on academics; we have decided against using regiowiki and will shift our project-focus to the discussion with the editors regarding that matter

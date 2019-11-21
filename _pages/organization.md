@@ -49,7 +49,7 @@ permalink: /organization/
 - Vasilena: [\[ODS\]](../../assets/TimeTables/TimeTable_Vasilena.ods)
 - Daniella: [\[ODS\]](../../assets/TimeTables/TimeTable_Daniella.ods)
 
-### Decision Log
+### Accomplishments
 [21/11/2019] - We now offer time-tables as "OpenOffice Calc" Documents to better track the time spent of individual members on various tasks. Also, we now provide various documents as PDF and OpenOffice documents for better accessibility.
 
 [20/11/2019] - We gathered 3 online sources that contain information on Geraldine Fitzpatrick. Vasilena, Daniella and Momo will attempt to extract, translate and rewrite all relevant information until Saturday 23/11/2019. The Milestones will be updated accordingly.

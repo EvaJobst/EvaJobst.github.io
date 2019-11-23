@@ -50,6 +50,8 @@ permalink: /organization/
 - Daniella: [\[ODS\]](../../assets/TimeTables/TimeTable_Daniella.ods)
 
 ### Accomplishments
+[23/11/2019] - A draft on Geraldine Fitzpatrick is being created, the first version looks like this: [\[PDF\]](../../assets/Drafts/Geraldine Fitzpatrick/Momo - Draft - Fitzpatrick.pdf) [\[ODT\]](../../assets/Drafts/Geraldine Fitzpatrick/Momo - Draft - Fitzpatrick.pdf).
+
 [21/11/2019] - We now offer time-tables as "OpenOffice Calc" Documents to better track the time spent of individual members on various tasks. Also, we now provide various documents as PDF and OpenOffice documents for better accessibility.
 
 [20/11/2019] - We gathered 3 online sources that contain information on Geraldine Fitzpatrick. Vasilena, Daniella and Momo will attempt to extract, translate and rewrite all relevant information until Saturday 23/11/2019. The Milestones will be updated accordingly.

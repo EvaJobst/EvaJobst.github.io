@@ -23,7 +23,7 @@ permalink: /organization/
 ### Accomplishments
 [25/11/2019] - Reaching out to Geraldine Fitzpatrick, so we can get her opinion on the article
 
-[23/11/2019] - A draft on Geraldine Fitzpatrick is being created, the first version looks like this: [\[PDF\]](../../assets/Drafts/Geraldine Fitzpatrick/Momo - Draft - Fitzpatrick.pdf) [\[ODT\]](../../assets/Drafts/Geraldine Fitzpatrick/Momo - Draft - Fitzpatrick.pdf).
+[23/11/2019] - A draft on Geraldine Fitzpatrick is being created, the first version looks like this: [\[PDF\]](../../assets/Drafts/Geraldine Fitzpatrick/Momo - Draft - Fitzpatrick.pdf) [\[ODT\]](../../assets/Drafts/Geraldine Fitzpatrick/Momo - Draft - Fitzpatrick.odt).
 
 [21/11/2019] - We now offer time-tables as "OpenOffice Calc" Documents to better track the time spent of individual members on various tasks. Also, we now provide various documents as PDF and OpenOffice documents for better accessibility.
 

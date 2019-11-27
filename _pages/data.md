@@ -25,5 +25,4 @@ In this step we have roughly analysed the available information of the professor
 ### Contact with Professors
 
 ## Articles
-
-### Geraldine Fitzpatrick
+- [Geraldine Fitzpatrick](fitzpatrick)

@@ -21,3 +21,9 @@ Our team went to the Wikipedia Meetup on 10/11/2019 in order to clarify some ope
 In this step we have roughly analysed the available information of the professors online. Our goal was gaining a feeling on what kind of information we require for a Wikipedia article (we used the existing ones of TU professors as guideline) and what kind of information we find online (and what kind of information we can't find online). This knowledge will help us deciding on the first person we write an article on.
 
 - [\[PDF\]](../../assets/OnlineResearch-on-Professors.pdf)
+
+### Contact with Professors
+
+# Articles
+
+### Geraldine Fitzpatrick

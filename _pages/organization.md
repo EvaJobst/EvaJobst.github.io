@@ -21,7 +21,7 @@ permalink: /organization/
 - Daniella: [\[ODS\]](../../assets/TimeTables/TimeTable_Daniella.ods)
 
 ### Accomplishments
-[28/11/2019] - We successfully published our first article on Wikipedia and were able to see edits being made by different, well established Wiki-editors already. Link to the Wikipedia article: [\[LINK\]](https://de.wikipedia.org/wiki/Geraldine_Fitzpatrick)
+[28/11/2019] - We successfully published our first article on Wikipedia and were able to see edits being made by different, well established Wiki-editors already. Link to the Wikipedia article: [\[https://de.wikipedia.org/wiki/Geraldine_Fitzpatrick\]](https://de.wikipedia.org/wiki/Geraldine_Fitzpatrick)
 
 [28/11/2019] - Geraldine responded with comments, corrections and additions to our draft and was pleased to see, that we were writing an article about her.
 

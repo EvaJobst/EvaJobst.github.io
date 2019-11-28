@@ -21,7 +21,11 @@ permalink: /organization/
 - Daniella: [\[ODS\]](../../assets/TimeTables/TimeTable_Daniella.ods)
 
 ### Accomplishments
-[25/11/2019] - Reaching out to Geraldine Fitzpatrick, so we can get her opinion on the article
+[28/11/2019] - We successfully published our first article on Wikipedia and were able to see edits being made by different, well established Wiki-editors already.
+
+[28/11/2019] - Geraldine responded with comments, corrections and additions to our draft and was pleased to see, that we were writing an article about her.
+
+[25/11/2019] - We reached out to Geraldine Fitzpatrick, so we can get her opinion on the article.
 
 [23/11/2019] - A draft on Geraldine Fitzpatrick is being created, the first version looks like this: [\[PDF\]](../../assets/Drafts/Geraldine Fitzpatrick/Momo - Draft - Fitzpatrick.pdf) [\[ODT\]](../../assets/Drafts/Geraldine Fitzpatrick/Momo - Draft - Fitzpatrick.odt).
 
@@ -29,4 +33,4 @@ permalink: /organization/
 
 [20/11/2019] - We gathered 3 online sources that contain information on Geraldine Fitzpatrick. Vasilena, Daniella and Momo will attempt to extract, translate and rewrite all relevant information until Saturday 23/11/2019. The Milestones will be updated accordingly.
 
-[12/11/2019] - We have analysed the challenges of publishing articles to Wikipedia on academics; we have decided against using regiowiki and will shift our project-focus to the discussion with the editors regarding that matter
+[12/11/2019] - We have analysed the challenges of publishing articles to Wikipedia on academics; we have decided against using regiowiki and will shift our project-focus to the discussion with the editors regarding that matter.

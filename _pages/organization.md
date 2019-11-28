@@ -3,6 +3,8 @@ permalink: /organization/
 ---
 
 # Organization
+- [Milestones](milestones)
+- [Meetings](meetings)
 
 ### Project Proposal
 
@@ -12,37 +14,6 @@ permalink: /organization/
 #### Previous Versions
 - 25.10.2019: [\[PDF\]](../../assets/ProjectProposals/ProjectProposal-v1.pdf)
 
-### Milestones
-
-| Task | Until |
-|-------|--------|
-| Group forming & topic selection | 25/10/19 | DONE |
-| Meetup with Lecturers | 08/11/2019 | DONE |
-| Wikipedia Meetup | 10/11/2019 | DONE |
-| Momo, Vasilena & Daniella finish their individual parts on Geraldine Fitzpatrick | 23/11/2019 | ONGOING |
-| A complete draft-text on Geraldine Fitzpatrick is created | 24/11/2019 | - |
-| The draft will be shown to Geraldine Fitzpatrick | 25/11/2019 | - |
-| Attempt to publish the article on Geraldine Fitzpatrick | 27/11/2019 | - |
-| Meetup with Lecturers | 29/11/2019 | - |
-| Attempt to publish third article | 10/01/2020 | - |
-| Meetup with Lecturers | 10/01/2020 | - |
-| Attempt to publish fourth article | 17/01/2020 | - |
-| Final presentation | 24/01/2020 | - |
-
-### Meetings
-
-#### 19/11/2019: Meetup after Metalab excursion
-- Time: 19:00 - 20:35
-- Attendees: Mohammad Zandpour, Vasilena Kisova, Eva Jobst
-- Agenda: Updating proposal, discussing candidate for our first article & developing a method to split up work
-- Documentation: [\[PDF\]](../../assets/MeetingDocuments/19-11-2019 Meeting.pdf) [\[ODT\]](../../assets/MeetingDocuments/19-11-2019 Meeting.odt)
-
-#### 08/11/2019: Meetup with Lecturers
-- Time: 14:00 - 14:45
-- Attendees: Mohammad Zandpour, Vasilena Kisova, Daniela Shopova, Eva Jobst, Christoph Derndorfer, Lukas Lang
-- Agenda: Gathering input from lecturers and defining next steps
-- Documentation: [\[PDF\]](../../assets/MeetingDocuments/08-11-2019 Meeting.pdf) [\[ODT\]](../../assets/MeetingDocuments/08-11-2019 Meeting.odt)
-
 ###  Time Tracker
 - Momo: [\[ODS\]](../../assets/TimeTables/TimeTable_Momo.ods)
 - Eva: [\[ODS\]](../../assets/TimeTables/TimeTable_Eva.ods)
@@ -50,7 +21,9 @@ permalink: /organization/
 - Daniella: [\[ODS\]](../../assets/TimeTables/TimeTable_Daniella.ods)
 
 ### Accomplishments
-[23/11/2019] - A draft on Geraldine Fitzpatrick is being created, the first version looks like this: [\[PDF\]](../../assets/Drafts/Geraldine Fitzpatrick/Momo - Draft - Fitzpatrick.pdf) [\[ODT\]](../../assets/Drafts/Geraldine Fitzpatrick/Momo - Draft - Fitzpatrick.pdf).
+[25/11/2019] - Reaching out to Geraldine Fitzpatrick, so we can get her opinion on the article
+
+[23/11/2019] - A draft on Geraldine Fitzpatrick is being created, the first version looks like this: [\[PDF\]](../../assets/Drafts/Geraldine Fitzpatrick/Momo - Draft - Fitzpatrick.pdf) [\[ODT\]](../../assets/Drafts/Geraldine Fitzpatrick/Momo - Draft - Fitzpatrick.odt).
 
 [21/11/2019] - We now offer time-tables as "OpenOffice Calc" Documents to better track the time spent of individual members on various tasks. Also, we now provide various documents as PDF and OpenOffice documents for better accessibility.
 

@@ -3,7 +3,8 @@ permalink: /data/fitzpatrick
 ---
 
 # Geraldine Fitzpatrick
-Status: Doing | **In-Review** | Published
+- Links: [\[Wikipedia\]](https://de.wikipedia.org/w/index.php?title=Geraldine_Fitzpatrick) [\[Version History\]](https://de.wikipedia.org/w/index.php?title=Geraldine_Fitzpatrick&action=history)
+- Statistics: [\[General\]](https://xtools.wmflabs.org/articleinfo/de.wikipedia.org/Geraldine%20Fitzpatrick) [\[Authorship\]](https://xtools.wmflabs.org/articleinfo-authorship/de.wikipedia.org/Geraldine_Fitzpatrick?uselang=de)
 
 ### Current Version
 - 24.11.2019 : [\[PDF\]](../../assets/Drafts/Geraldine Fitzpatrick/2019-11-24 - Merged - Fitzpatrick.pdf) [\[ODT\]](../../assets/Drafts/Geraldine Fitzpatrick/2019-11-24 - Merged - Fitzpatrick.odt)

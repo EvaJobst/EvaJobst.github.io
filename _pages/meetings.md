@@ -4,6 +4,12 @@ permalink: /organization/meetings/
 
 # Meetings
 
+#### 29/11/2019: Meetup with Lecturers
+- Time: 15:00 - 14:35
+- Attendees: Mohammad Zandpour, Vasilena Kisova, Daniela Shopova, Eva Jobst, Christoph Derndorfer, Lukas Lang
+- Agenda: Bringing lecturers up-to-date with our progress & defining next steps
+- Documentation: [\[PDF\]](../../assets/MeetingDocuments/29-11-2019 Meeting.pdf) [\[ODT\]](../../assets/MeetingDocuments/29-11-2019 Meeting.odt)
+
 #### 19/11/2019: Meetup after Metalab excursion
 - Time: 19:00 - 20:35
 - Attendees: Mohammad Zandpour, Vasilena Kisova, Eva Jobst

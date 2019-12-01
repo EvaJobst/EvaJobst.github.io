@@ -28,3 +28,4 @@ We contacted Geraldine Fitzpatrick via E-Mail providing her a complete draft-art
 
 ## Articles
 - [Geraldine Fitzpatrick](fitzpatrick)
+- [Margrit Gelautz](gelautz)

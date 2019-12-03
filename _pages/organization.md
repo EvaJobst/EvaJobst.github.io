@@ -21,6 +21,8 @@ permalink: /organization/
 - Daniella: [\[ODS\]](../../assets/TimeTables/TimeTable_Daniella.ods)
 
 ### Accomplishments
+[03/12/2019] - Draft documents on Hilda Tellioğlu and Margit Gelautz are being created. A very early draft on Hilda Tellioğlu's research topics and publications can be seen here: [\[PDF\]](../../assets/Drafts/Hilda Tellioglu/Momo - Draft - Tellioglu.pdf) [\[ODT\]](../../assets/Drafts/Hilda Tellioglu/Momo - Draft - Tellioglu.odt)
+
 [28/11/2019] - We successfully published our first article on Wikipedia and were able to see edits being made by different, well established Wiki-editors already. Link to the Wikipedia article: [''https://de.wikipedia.org/wiki/Geraldine_Fitzpatrick''](https://de.wikipedia.org/wiki/Geraldine_Fitzpatrick)
 
 [28/11/2019] - Geraldine responded with comments, corrections and additions to our draft and was pleased to see, that we were writing an article about her.

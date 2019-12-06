@@ -6,12 +6,9 @@ permalink: /data/gelautz
 - Links: [Wikipedia] [Version History]
 - Statistics: [General] [Authorship]
 
-### Current Version
-- Day.Month.Year : [PDF] [ODT]
+### History of Merged Drafts
+- Day.Month.Year: [PDF] [ODT]
 
-### Previous Versions
-
-
-### Drafts
+### Latest Individual Drafts
 - Vasilena Kisova: [PDF] [ODT]
 - Daniela Shopova: [PDF] [ODT]

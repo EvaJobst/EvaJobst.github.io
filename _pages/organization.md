@@ -21,6 +21,8 @@ permalink: /organization/
 - Daniella: [\[ODS\]](../../assets/TimeTables/TimeTable_Daniella.ods)
 
 ### Accomplishments
+[09/12/2019] - Publishing article on Hilda Tellioğlu. Got marked as "Wikifizieren" (missing some quality requirements) just 6 minutes later 🥳
+
 [06/12/2019] - The draft document on Hilda Tellioğlu is now finished and ready to be reviewed by our Gelautz-Team. It's current state can be seen here: [\[PDF\]](../../assets/Drafts/Hilda Tellioglu/Merged - Draft - Tellioglu.pdf) [\[ODT\]](../../assets/Drafts/Hilda Tellioglu/Merged - Draft - Tellioglu.odt)
 
 [04/12/2019] - We contacted Professor Margit Pohl informing her about our ambitions to create a Wikipedia article about her. We asked if there were any more information about her online. She happily provided various web-links to useful source material and stated how thrilled she was about our project.

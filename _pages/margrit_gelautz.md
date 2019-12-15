@@ -10,5 +10,5 @@ permalink: /data/gelautz
 - Day.Month.Year: [PDF] [ODT]
 
 ### Latest Individual Drafts
-- Vasilena Kisova: [PDF] [ODT]
-- Daniela Shopova: [PDF] [ODT]
+- Vasilena Kisova: [\[PDF\]](..\..\assets\Drafts\Margrit Gelautz\Margrit_Gelautz.pdf) [\[ODT\]](..\..\assets\Drafts\Margrit Gelautz\Margrit_Gelautz.odt) 
+- Daniela Shopova: [\[PDF\]](..\..\assets\Drafts\Margrit Gelautz\Margrit_Gelautz.pdf) [\[ODT\]](..\..\assets\Drafts\Margrit Gelautz\Margrit_Gelautz.odt) 

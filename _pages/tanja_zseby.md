@@ -11,4 +11,4 @@ Article creation on hold, because we are missing basic information (eg. Date + P
 ### History of Merged Drafts
 
 ### Latest Individual Drafts
-- Eva Jobst: [\[PDF\]](../../assets/Drafts/Tanja Zseby/Eva - Draft - Zseby.pdf) [\[ODT\]](../../assets/Drafts/Hilda Tellioglu/Eva - Draft - Zseby.odt)
+- Eva Jobst: [\[PDF\]](../../assets/Drafts/Tanja Zseby/Eva - Draft - Zseby.pdf) [\[ODT\]](../../assets/Drafts/Tanja Zseby/Eva - Draft - Zseby.odt)

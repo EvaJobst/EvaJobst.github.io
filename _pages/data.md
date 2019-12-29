@@ -26,11 +26,25 @@ In this step we have roughly analysed the available information of the professor
 #### Geraldine Fitzpatrick
 We contacted Geraldine Fitzpatrick via E-Mail providing her a complete draft-article written in Microsoft Word to see if our information about her is accurate and if she liked it. We didn't inform her beforehand thus surprised her with our intentions. She was very happy about us writing an article about her and helped us to correct things like the professors who guided her during her time at the hospital certifying as a midwife.
 
-## Articles
-#### Published
+## Professors
+#### Published Articles
 - [Geraldine Fitzpatrick](fitzpatrick)
 - [Hilda Tellioğlu](tellioglu)
 
-#### Unpublished
+#### Unpublished Articles
 - [Margrit Gelautz](gelautz)
 - [Tanja Zseby](zseby)
+
+#### Possible Candidates
+- [Alexia Fürnkranz-Prskawetz](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/alexia-fuernkranz-prskawetz/)
+- [Marina Döring-Williams](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/marina-doering-williams/)
+- [Maria Ebel](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/maria-ebel/)
+- [Azra Korjenic](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/azra-korjenic/)
+- [Sabine Theresia Köszegi](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/sabine-t-koeszegi/)
+- [Monika Ludwig](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/monika-ludwig/)
+- [Verena Seidl-Seibold](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/verena-seidl-seibold/)
+- [Astrid Staufer](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/astrid-staufer/)
+- [Inge Troch](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/inge-troch/)
+- [Sybilla Zech](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/sybilla-zech/)
+- [Susanne Zeilinger-Migsich](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/susanne-zeiliner-migsich/)
+- [Agata Ciabattoni](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/agata-ciabattoni/)

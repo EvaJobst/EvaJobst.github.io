@@ -39,7 +39,7 @@ We contacted Geraldine Fitzpatrick via E-Mail providing her a complete draft-art
 #### Possible Candidates
 - [Marina Döring-Williams](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/marina-doering-williams/)
 - [Maria Ebel](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/maria-ebel/)
-- [Azra Korjenic](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/azra-korjenic/)
+- [Azra Korjenic](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/azra-korjenic/) (No birth year found)
 - [Sabine Theresia Köszegi](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/sabine-t-koeszegi/)
 - [Monika Ludwig](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/monika-ludwig/)
 - [Verena Seidl-Seibold](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/verena-seidl-seibold/)

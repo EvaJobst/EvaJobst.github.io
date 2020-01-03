@@ -34,9 +34,9 @@ We contacted Geraldine Fitzpatrick via E-Mail providing her a complete draft-art
 #### Unpublished Articles
 - [Margrit Gelautz](gelautz)
 - [Tanja Zseby](zseby)
+- [Alexia Fürnkranz-Prskawetz](fuernkranz-prskawetz)
 
 #### Possible Candidates
-- [Alexia Fürnkranz-Prskawetz](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/alexia-fuernkranz-prskawetz/)
 - [Marina Döring-Williams](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/marina-doering-williams/)
 - [Maria Ebel](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/maria-ebel/)
 - [Azra Korjenic](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/azra-korjenic/)

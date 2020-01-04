@@ -36,6 +36,7 @@ We contacted Geraldine Fitzpatrick via E-Mail providing her a complete draft-art
 - [Tanja Zseby](zseby)
 - [Alexia Fürnkranz-Prskawetz](fuernkranz-prskawetz)
 - [Sabine Theresia Köszegi](koeszegi)
+- [Margit Pohl](pohl)
 
 #### Possible Candidates
 - [Marina Döring-Williams](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/marina-doering-williams/)

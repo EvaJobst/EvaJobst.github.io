@@ -30,12 +30,12 @@ We contacted Geraldine Fitzpatrick via E-Mail providing her a complete draft-art
 #### Published Articles
 - [Geraldine Fitzpatrick](fitzpatrick)
 - [Hilda Tellioğlu](tellioglu)
+- [Alexia Fürnkranz-Prskawetz](fuernkranz-prskawetz)
+- [Sabine Theresia Köszegi](koeszegi)
 
 #### Unpublished Articles
 - [Margrit Gelautz](gelautz)
 - [Tanja Zseby](zseby)
-- [Alexia Fürnkranz-Prskawetz](fuernkranz-prskawetz)
-- [Sabine Theresia Köszegi](koeszegi)
 - [Margit Pohl](pohl)
 
 #### Possible Candidates

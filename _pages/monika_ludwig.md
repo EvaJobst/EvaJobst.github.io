@@ -3,7 +3,7 @@ permalink: /data/ludwig
 ---
 
 # Monika Ludwig
-- Links: [\[Source\]] (https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/monika-ludwig/)  [Wikipedia] [Version History]
+- Links: [Wikipedia] [Version History]
 - Statistics: [General] [Authorship]
 
 ### History of Merged Drafts

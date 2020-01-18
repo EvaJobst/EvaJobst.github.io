@@ -2,7 +2,7 @@
 permalink: /data/pohl
 ---
 
-# Monika Ludwig
+# Margit Pohl
 - Links: [Wikipedia] [Version History]
 - Statistics: [General] [Authorship]
 

@@ -39,6 +39,7 @@ We contacted Geraldine Fitzpatrick via E-Mail providing her a complete draft-art
 #### Unpublished Articles
 - [Margrit Gelautz](gelautz)
 - [Tanja Zseby](zseby)
+- [Agata Ciabattoni](ciabattoni)
 
 
 #### Possible Candidates
@@ -49,4 +50,7 @@ We contacted Geraldine Fitzpatrick via E-Mail providing her a complete draft-art
 - [Astrid Staufer](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/astrid-staufer/)
 - [Inge Troch](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/inge-troch/)
 - [Sybilla Zech](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/sybilla-zech/)
+<<<<<<< HEAD
 - [Agata Ciabattoni](ciabattoni)
+=======
+>>>>>>> 19521698328aac4d6887d09bb10818ede0ff760b

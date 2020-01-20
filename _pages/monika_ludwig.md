@@ -4,7 +4,7 @@ permalink: /data/ludwig
 
 # Monika Ludwig
 - Links: [\[Wikipedia\]](https://de.wikipedia.org/wiki/Monika_Ludwig) [\[Version History\]](https://de.wikipedia.org/w/index.php?title=Monika_Ludwig&action=history)
-- Statistics: [General] [Authorship]
+- Statistics: [\[General\]](https://xtools.wmflabs.org/articleinfo/de.wikipedia.org/Monika%20Ludwig) [\[Authorship\]](https://xtools.wmflabs.org/authorship/de.wikipedia.org/Monika%20Ludwig/)
 
 ### History of Merged Drafts
 - Day.Month.Year: [PDF] [ODT]

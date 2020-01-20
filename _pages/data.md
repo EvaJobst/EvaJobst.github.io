@@ -34,6 +34,7 @@ We contacted Geraldine Fitzpatrick via E-Mail providing her a complete draft-art
 - [Sabine Theresia Köszegi](koeszegi)
 - [Monika Ludwig](ludwig)
 - [Margit Pohl](pohl)
+- [Susanne Zeilinger-Migsich](zeilinger)
 
 #### Unpublished Articles
 - [Margrit Gelautz](gelautz)
@@ -48,5 +49,4 @@ We contacted Geraldine Fitzpatrick via E-Mail providing her a complete draft-art
 - [Astrid Staufer](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/astrid-staufer/)
 - [Inge Troch](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/inge-troch/)
 - [Sybilla Zech](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/sybilla-zech/)
-- [Susanne Zeilinger-Migsich](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/susanne-zeiliner-migsich/)
 - [Agata Ciabattoni](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/agata-ciabattoni/)

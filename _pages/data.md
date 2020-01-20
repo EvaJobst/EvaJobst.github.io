@@ -32,17 +32,18 @@ We contacted Geraldine Fitzpatrick via E-Mail providing her a complete draft-art
 - [Hilda Tellioğlu](tellioglu)
 - [Alexia Fürnkranz-Prskawetz](fuernkranz-prskawetz)
 - [Sabine Theresia Köszegi](koeszegi)
+- [Monika Ludwig](ludwig)
+- [Margit Pohl](pohl)
 
 #### Unpublished Articles
 - [Margrit Gelautz](gelautz)
 - [Tanja Zseby](zseby)
-- [Margit Pohl](pohl)
+
 
 #### Possible Candidates
 - [Marina Döring-Williams](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/marina-doering-williams/)
 - [Maria Ebel](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/maria-ebel/)
 - [Azra Korjenic](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/azra-korjenic/) (No birth year found)
-- [Monika Ludwig](ludwig)
 - [Verena Seidl-Seibold](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/verena-seidl-seibold/)
 - [Astrid Staufer](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/astrid-staufer/)
 - [Inge Troch](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/inge-troch/)

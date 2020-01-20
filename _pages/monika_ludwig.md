@@ -3,7 +3,7 @@ permalink: /data/ludwig
 ---
 
 # Monika Ludwig
-- Links: [Wikipedia] [Version History]
+- Links: [\[Wikipedia\]](https://de.wikipedia.org/wiki/Monika_Ludwig) [\[Version History\]](https://de.wikipedia.org/w/index.php?title=Monika_Ludwig&action=history)
 - Statistics: [General] [Authorship]
 
 ### History of Merged Drafts

@@ -4,6 +4,12 @@ permalink: /organization/meetings/
 
 # Meetings
 
+#### 10/01/2020: Meetup with Lecturers
+- Time: 16:00 - 16:45
+- Attendees: Mohammad Zandpour, Vasilena Kisova, Daniela Shopova, Eva Jobst, Christoph Derndorfer, Lukas Lang
+- Agenda: Defining last steps as the project is coming to an end
+- Documentation: [\[PDF\]](../../assets/MeetingDocuments/10-01-2020 Meeting.pdf) [\[ODT\]](../../assets/MeetingDocuments/10-01-2020 Meeting.odt)
+
 #### 29/11/2019: Meetup with Lecturers
 - Time: 15:00 - 14:35
 - Attendees: Mohammad Zandpour, Vasilena Kisova, Daniela Shopova, Eva Jobst, Christoph Derndorfer, Lukas Lang

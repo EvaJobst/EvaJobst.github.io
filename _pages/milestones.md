@@ -20,3 +20,5 @@ permalink: /organization/milestones/
 | Attempt to publish 6th and 7th article | 29/12/2019 | DONE |
 | Meetup with Lecturers | 10/01/2020 | DONE |
 | Final presentation | 24/01/2020 | - |
+
+

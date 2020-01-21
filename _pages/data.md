@@ -37,11 +37,11 @@ We contacted Geraldine Fitzpatrick via E-Mail providing her a complete draft-art
 - [Susanne Zeilinger-Migsich](zeilinger)
 
 #### Unpublished Articles
-- [Margrit Gelautz](gelautz)
-- [Tanja Zseby](zseby) (Article creation on hold, because we are missing basic information)
 - [Agata Ciabattoni](ciabattoni)
 - [Astrid Staufer](staufer)
 - [Inge Troch](troch)
+- [Margrit Gelautz](gelautz) (Article on hold because Prof. Gelautz does not wish this article to be published)
+- [Tanja Zseby](zseby) (Article on hold because we are missing basic information)
 
 #### Possible Candidates
 - [Marina Döring-Williams](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/marina-doering-williams/)

@@ -7,6 +7,7 @@ permalink: /data/ciabattoni
 - Statistics: -
 
 ### History of Merged Drafts
+- [\[PDF\]](../../assets/Drafts/Agata Ciabattoni/Merged - Ciabattoni.pdf) [\[ODT\]](../../assets/Drafts/Agata Ciabattoni/Merged - Ciabattoni.odt)
 
 ### Latest Individual Drafts
 - Vasilena Kisova: [\[PDF\]](../../assets/Drafts/Agata Ciabattoni/Vasilena - Draft - Ciabattoni.pdf) [\[ODT\]](../../assets/Drafts/Agata Ciabattoni/Vasilena - Draft - Ciabattoni.odt)

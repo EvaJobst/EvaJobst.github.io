@@ -10,5 +10,5 @@ permalink: /data/pohl
 - [\[PDF\]](..\..\assets\Drafts\Margit Pohl\Merged - Pohl.pdf) [\[ODT\]](..\..\assets\Drafts\Margit Pohl\Merged - Pohl.odt)
 
 ### Latest Individual Drafts
-- Vasilena Kisova (initial draft): [PDF\](..\..\assets\Drafts\Margit Pohl\Vasilena - Draft - Pohl.pdf) [\[ODT\]](..\..\assets\Drafts\Margit Pohl\Vasilena - Draft - Pohl.odt)
+- Vasilena Kisova (initial draft): [\[PDF\](..\..\assets\Drafts\Margit Pohl\Vasilena - Draft - Pohl.pdf) [\[ODT\]](..\..\assets\Drafts\Margit Pohl\Vasilena - Draft - Pohl.odt)
 - Eva Jobst (peer-reviewer): [\[PDF\]](..\..\assets\Drafts\Margit Pohl\Eva - Review - Pohl.pdf) [\[ODT\]](..\..\assets\Drafts\Margit Pohl\Eva - Review - Pohl.odt)

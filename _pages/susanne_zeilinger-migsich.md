@@ -10,5 +10,5 @@ permalink: /data/zeilinger
 - [\[PDF\]](..\..\assets\Drafts\Susanne Zeilinger-Migsich\Merged - Zeilinger.pdf) [\[ODT\]](..\..\assets\Drafts\Susanne Zeilinger-Migsich\Merged - Zeilinger.odt)
 
 ### Latest Individual Drafts
-- Daniela Shopova (initial draft): [PDF\](..\..\assets\Drafts\Susanne Zeilinger-Migsich\Daniela - Draft - Zeilinger.pdf) [\[ODT\]](..\..\assets\Drafts\Susanne Zeilinger-Migsich\Daniela - Draft - Zeilinger.odt)
+- Daniela Shopova (initial draft): [\[[PDF\](..\..\assets\Drafts\Susanne Zeilinger-Migsich\Daniela - Draft - Zeilinger.pdf) [\[ODT\]](..\..\assets\Drafts\Susanne Zeilinger-Migsich\Daniela - Draft - Zeilinger.odt)
 - Eva Jobst (peer-reviewer): [\[PDF\]](..\..\assets\Drafts\Susanne Zeilinger-Migsich\Eva - Review - Zeilinger.pdf) [\[ODT\]](..\..\assets\Drafts\Susanne Zeilinger-Migsich\Eva - Review - Zeilinger.odt)

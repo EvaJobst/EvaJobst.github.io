@@ -38,7 +38,7 @@ We contacted Geraldine Fitzpatrick via E-Mail providing her a complete draft-art
 
 #### Unpublished Articles
 - [Margrit Gelautz](gelautz)
-- [Tanja Zseby](zseby)
+- [Tanja Zseby](zseby) (Article creation on hold, because we are missing basic information)
 - [Agata Ciabattoni](ciabattoni)
 - [Astrid Staufer](staufer)
 

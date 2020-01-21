@@ -49,7 +49,4 @@ We contacted Geraldine Fitzpatrick via E-Mail providing her a complete draft-art
 - [Azra Korjenic](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/azra-korjenic/) (No birth year found)
 - [Verena Seidl-Seibold](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/verena-seidl-seibold/)
 - [Sybilla Zech](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/sybilla-zech/)
-<<<<<<< HEAD
-- [Agata Ciabattoni](ciabattoni)
-=======
->>>>>>> 19521698328aac4d6887d09bb10818ede0ff760b
+

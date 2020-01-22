@@ -36,10 +36,10 @@ We contacted Geraldine Fitzpatrick via E-Mail providing her a complete draft-art
 - [Margit Pohl](pohl)
 - [Susanne Zeilinger-Migsich](zeilinger)
 - [Agata Ciabattoni](ciabattoni)
-
-#### Unpublished Articles
 - [Astrid Staufer](staufer)
 - [Inge Troch](troch)
+
+#### Unpublished Articles
 - [Margrit Gelautz](gelautz) (Article on hold because Prof. Gelautz does not wish this article to be published)
 - [Tanja Zseby](zseby) (Article on hold because we are missing basic information)
 

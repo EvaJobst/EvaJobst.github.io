@@ -10,5 +10,5 @@ permalink: /data/ciabattoni
 - [\[PDF\]](../../assets/Drafts/Agata Ciabattoni/Merged - Ciabattoni.pdf) [\[ODT\]](../../assets/Drafts/Agata Ciabattoni/Merged - Ciabattoni.odt)
 
 ### Latest Individual Drafts
-- Vasilena Kisova: [\[PDF\]](../../assets/Drafts/Agata Ciabattoni/Vasilena - Draft - Ciabattoni.pdf) [\[ODT\]](../../assets/Drafts/Agata Ciabattoni/Vasilena - Draft - Ciabattoni.odt)
-- Mohammad Zandpour: [\[PDF\]](../../assets/Drafts/Agata Ciabattoni/Momo - Review - Ciabattoni.pdf) [\[ODT\]](../../assets/Drafts/Agata Ciabattoni/Momo - Review - Ciabattoni.odt)
+- Vasilena Kisova (initial draft): [\[PDF\]](../../assets/Drafts/Agata Ciabattoni/Vasilena - Draft - Ciabattoni.pdf) [\[ODT\]](../../assets/Drafts/Agata Ciabattoni/Vasilena - Draft - Ciabattoni.odt)
+- Mohammad Zandpour (peer-reviewer): [\[PDF\]](../../assets/Drafts/Agata Ciabattoni/Momo - Review - Ciabattoni.pdf) [\[ODT\]](../../assets/Drafts/Agata Ciabattoni/Momo - Review - Ciabattoni.odt)

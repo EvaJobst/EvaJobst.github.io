@@ -27,23 +27,23 @@ permalink: /organization/
 - Daniella: [\[Wikipedis\]](https://de.wikipedia.org/w/index.php?title=Benutzer:Ella.land&action=edit&redlink=1)
 
 ### Accomplishments
-[21.01.2020] - The article on Agata Ciabattoni was published on Wikipedia. Link: [\[Wikipedia: Agata Ciabattoni\]](https://de.wikipedia.org/wiki/Agata_Ciabattoni). The drafts on Astrid Satufer and Inge Troch were peer-reviewed and the articles were published: [\[Wikipedia: Astrid Staufer\]](https://de.wikipedia.org/wiki/Astrid_Staufer) and [\[Wikipedia: Inge Troch\]](https://de.wikipedia.org/wiki/Inge_Troch)
+[21/01/2020] - The article on Agata Ciabattoni was published on Wikipedia. Link: [\[Wikipedia: Agata Ciabattoni\]](https://de.wikipedia.org/wiki/Agata_Ciabattoni). The drafts on Astrid Satufer and Inge Troch were peer-reviewed and the articles were published: [\[Wikipedia: Astrid Staufer\]](https://de.wikipedia.org/wiki/Astrid_Staufer) and [\[Wikipedia: Inge Troch\]](https://de.wikipedia.org/wiki/Inge_Troch)
 
-[20.01.2020] - Draft on Agata Ciabattoni was peer-reviewed and was ready for publishing. New version of the article on Inge Torch and article on Agata Staufer were forwarded for peer-review.
+[20/01/2020] - Draft on Agata Ciabattoni was peer-reviewed and was ready for publishing. New version of the article on Inge Torch and article on Agata Staufer were forwarded for peer-review.
 
-[19.01.2020] - Draft on Agata Ciabattoni was forwarded for peer-review.
+[19/01/2020] - Draft on Agata Ciabattoni was forwarded for peer-review.
 
 [10/01/2020] - The article on Susanne Zeilinger-Migsich was published. Link: [\[Wikipedia: Susanne Zeilinger-Migsich\]](https://de.wikipedia.org/wiki/Susanne_Zeilinger-Migsich)
 
-[09/01/2020] - The article on Alexia Fürnkranz-Prskawetz was pubished. Link: [\[Wikipedia: Alexia Fürnkranz-Prskawetz\]](https://de.wikipedia.org/wiki/Alexia_F%C3%BCrnkranz-Prskawetz). Same day the article about Margit Pohl was also published. Link: [\[Wikipedia: Margit Pohl\]](https://de.wikipedia.org/wiki/Margit_Pohl). The peer-reviews on Susanne Zeilinger-Migsich were finished.
+[09/01/2020] - The article on Alexia Fürnkranz-Prskawetz was pubished. Link: [\[Wikipedia: Alexia Fürnkranz-Prskawetz\]](https://de.wikipedia.org/wiki/Alexia_F%C3%BCrnkranz-Prskawetz). On the same day, the article about Margit Pohl was also published. Link: [\[Wikipedia: Margit Pohl\]](https://de.wikipedia.org/wiki/Margit_Pohl). The peer-review on Susanne Zeilinger-Migsich was finished.
 
-[07/01/2020] - The article on Monika Ludwig was published. Link:[\[Wikipedia: Monika Ludwig\]](https://de.wikipedia.org/wiki/Monika_Ludwig)
+[07/01/2020] - The article on Monika Ludwig was published. Link: [\[Wikipedia: Monika Ludwig\]](https://de.wikipedia.org/wiki/Monika_Ludwig)
 
 [05/01/2020] - Drafts on Susanne Zeilinger-Migsich and Inge Troch were forwarded for peer-review.
 
-[04/01/2020] - The article about Sabine Theresia Köszegi was published. Link on [\[Wikipedia: Sabine Theresia Köszegi\]](https://de.wikipedia.org/wiki/Sabine_Theresia_K%C3%B6szegi). The drafts on Monika Ludwig and Margit Pohl were forwarded for peer-review. Both were peer-reviewed in the same day. 
+[04/01/2020] - The article about Sabine Theresia Köszegi was published. Link on [\[Wikipedia: Sabine Theresia Köszegi\]](https://de.wikipedia.org/wiki/Sabine_Theresia_K%C3%B6szegi). The drafts on Monika Ludwig and Margit Pohl were forwarded for peer-review. Both were peer-reviewed on the same day. 
 
-[03/01/2020] - Draft on Sabine Theresia Köszegi was finished and forwarded for peer-review. It was reviewed on the same day and ready for publishing. The merge files: [\[PDF\]](../../assets/Drafts/Sabine Theresia Köszegi/Merged - Köszegi.pdf) [\[ODT\]](../../assets/Drafts/Sabine Theresia Köszegi/Merged - Köszegi.odt). New candidates for articles were added to our list.
+[03/01/2020] - Draft on Sabine Theresia Köszegi was finished and forwarded for peer-review. It was reviewed on the same day and ready for publishing. The result can be seen here: [\[PDF\]](../../assets/Drafts/Sabine Theresia Köszegi/Merged - Köszegi.pdf) [\[ODT\]](../../assets/Drafts/Sabine Theresia Köszegi/Merged - Köszegi.odt). New candidates for articles were added to our list.
 
 [29/12/2019] - "Missing quality" tag was removed from the article on Hilda Tellioğlu and it was officially released. Link to the article: [\[Wikipedia: Hilda Tellioğlu\]](https://de.wikipedia.org/wiki/Hilda_Tellio%C4%9Flu)
 

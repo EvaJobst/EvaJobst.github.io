@@ -54,3 +54,5 @@ We contacted Professor Margit Pohl informing her about our ambitions to create a
 - [Verena Seidl-Seibold](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/verena-seidl-seibold/)
 - [Sybilla Zech](https://www.tuwien.at/tu-wien/organisation/zentrale-services/genderkompetenz/frauenspuren/frauenspuren-heute/professorinnen/sybilla-zech/)
 
+## Final presentation
+- [\[PDF\]](../../assets/FOT_Presentation.pdf) [\[ODP\]](../../assets/FOT_Presentation.odp) [\[PPTX\]](../../assets/FOT_Presentation.PPTX)

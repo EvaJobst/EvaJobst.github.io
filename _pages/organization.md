@@ -21,30 +21,30 @@ permalink: /organization/
 - Daniella: [\[ODS\]](../../assets/TimeTables/TimeTable_Daniella.ods)
 
 ### Accomplishments
-[10/01/2020] - The article on Susanne Zeilinger-Migsich was published.
+[10/01/2020] - The article on Susanne Zeilinger-Migsich was published. Link:  [\[Wikipedia: Susanne Zeilinger-Migsich\]](https://de.wikipedia.org/wiki/Susanne_Zeilinger-Migsich)
 
-[09/01/2020] - The article of Alexia Fürnkranz-Prskawetz was pubished. Same day the article bout Margit POhl was also published. And the peer-review on Susanne Zeilinger-Migsich was finished.
+[09/01/2020] - The article on Alexia Fürnkranz-Prskawetz was pubished. Link: [\[Wikipedia:Alexia Fürnkranz-Prskawetz\]](https://de.wikipedia.org/wiki/Alexia_F%C3%BCrnkranz-Prskawetz). Same day the article about Margit Pohl was also published. Link: [\[Wikipedia: Margit Pohl\]](https://de.wikipedia.org/wiki/Margit_Pohl). And the peer-review on Susanne Zeilinger-Migsich was finished, the merged files: [\[PDF\]](..\..\assets\Drafts\Susanne Zeilinger-Migsich\Merged - Zeilinger.pdf) [\[ODT\]](..\..\assets\Drafts\Susanne Zeilinger-Migsich\Merged - Zeilinger.odt).
 
-[07/01/2020] - The article about Monika Ludwig was published.
+[07/01/2020] - The article on Monika Ludwig was published. Link:[\[Wikipedia: Monika Ludwig\]](https://de.wikipedia.org/wiki/Monika_Ludwig)
 
-[05/01/2020] - Drafts of Susanne Zeilinger-Migsich and Inge Troch were forwarded for peer-review.
+[05/01/2020] - Drafts on Susanne Zeilinger-Migsich and Inge Troch were forwarded for peer-review.
 
-[04/01/2020] - The article about Sabine Theresia Köszegi was published on [\[Wikipedia\]](https://de.wikipedia.org/wiki/Sabine_Theresia_K%C3%B6szegi). The drafts about Monika Ludwig and Margit Pohl were forwarded for peer-review. Both were peer-reviewed in the same day.
+[04/01/2020] - The article about Sabine Theresia Köszegi was published. Link on [\[Wikipedia: Sabine Theresia Köszegi\]](https://de.wikipedia.org/wiki/Sabine_Theresia_K%C3%B6szegi). The drafts on Monika Ludwig and Margit Pohl were forwarded for peer-review. Both were peer-reviewed in the same day. THe merged files for Pohl:[\[PDF\]](..\..\assets\Drafts\Margit Pohl\Merged - Pohl.pdf) [\[ODT\]](..\..\assets\Drafts\Margit Pohl\Merged - Pohl.odt), Ludwig:[\[PDF\]](..\..\assets\Drafts\Monika Ludwig\Merged - Ludwig.pdf) [\[ODT\]](..\..\assets\Drafts\Monika Ludwig\Merged - Ludwig.odt).
 
-[03/01/2020] - Draft on Sabine Theresia Köszegi was finished and forwarded for peer-review. It was reviewed on the same day and ready for publishing.New candidates for articles were added to our list.
+[03/01/2020] - Draft on Sabine Theresia Köszegi was finished and forwarded for peer-review. The initial drafts: [\[PDF\]](../../assets/Drafts/Sabine Theresia Köszegi/Eva - Draft - Köszegi.pdf) [\[ODT\]](../../assets/Drafts/Sabine Theresia Köszegi/Eva - Draft - Köszegi.odt). It was reviewed on the same day and ready for publishing. The merge files: [\[PDF\]](../../assets/Drafts/Sabine Theresia Köszegi/Merged - Köszegi.pdf) [\[ODT\]](../../assets/Drafts/Sabine Theresia Köszegi/Merged - Köszegi.odt). New candidates for articles were added to our list.
 
-[29/12/2019] - "Missing quality" tag was removed from the article of Hilda Tellioğlu and it was officially released.
+[29/12/2019] - "Missing quality" tag was removed from the article on Hilda Tellioğlu and it was officially released. Link to the article: [\[Wikipedia: Hilda Tellioğlu\]](https://de.wikipedia.org/wiki/Hilda_Tellio%C4%9Flu)
 
 [09/12/2019] - Publishing article on Hilda Tellioğlu. Got marked as "Wikifizieren" (missing some quality requirements) just 6 minutes later 🥳
 
-[06/12/2019] - The draft document on Hilda Tellioğlu is now finished and ready to be reviewed by our Gelautz-Team. It's current state can be seen here: [\[PDF\]](../../assets/Drafts/Hilda Tellioglu/Merged - Draft - Tellioglu.pdf) [\[ODT\]](../../assets/Drafts/Hilda Tellioglu/Merged - Draft - Tellioglu.odt)
+[06/12/2019] - The draft document on Hilda Tellioğlu is now finished and ready to be reviewed by our Gelautz-Team. It's current state can be seen here:[\[PDF\]](../../assets/Drafts/Hilda Tellioglu/Merged - Tellioglu.pdf) [\[ODT\]](../../assets/Drafts/Hilda Tellioglu/Merged - Tellioglu.odt)
 
 [05/12/2019] - English version on the document about Geraldine Fitzpartick was finished./ Peer-review on Margrit Gelautz article was finished.
 
 [04/12/2019] - We contacted Professor Margit Pohl informing her about our ambitions to create a Wikipedia article about her. We asked if there were any more information about her online. She happily provided various web-links to useful source material and stated how thrilled she was about our project./ Also draft on Margrit Gelautz was finished and forwarded for peer-review.
 
 
-[03/12/2019] - Draft documents on Hilda Tellioğlu and Margit Gelautz are being created. A very early draft on Hilda Tellioğlu's research topics and publications can be seen here: [\[PDF\]](../../assets/Drafts/Hilda Tellioglu/Momo - Draft - Tellioglu.pdf) [\[ODT\]](../../assets/Drafts/Hilda Tellioglu/Momo - Draft - Tellioglu.odt)
+[03/12/2019] - Draft documents on Hilda Tellioğlu and Margit Gelautz are being created. A very early draft on Hilda Tellioğlu's research topics and publications can be seen here: [\[PDF\]](../../assets/Drafts/Hilda Tellioglu/Momo - Review - Tellioglu.pdf) [\[ODT\]](../../assets/Drafts/Hilda Tellioglu/Momo - Review - Tellioglu.odt)
 
 [28/11/2019] - We successfully published our first article on Wikipedia and were able to see edits being made by different, well established Wiki-editors already. Link to the Wikipedia article: [https://de.wikipedia.org/wiki/Geraldine_Fitzpatrick](https://de.wikipedia.org/wiki/Geraldine_Fitzpatrick)
 

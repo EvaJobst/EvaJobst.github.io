@@ -26,9 +26,9 @@ In this step we have roughly analysed the available information of the professor
 #### Geraldine Fitzpatrick
 We contacted Geraldine Fitzpatrick via E-Mail providing her a complete draft-article written in Microsoft Word to see if our information about her is accurate and if she liked it. We didn't inform her beforehand thus surprised her with our intentions. She was very happy about us writing an article about her and helped us to correct things like the professors who guided her during her time at the hospital certifying as a midwife.
 #### Margrit Gelautz
-On 13.11.2019 we met Margit Gelautz and explained her our project and aim of the project and we asked her to participate. The article about Gelautz was finished on time and showed to the other team, however Margrit Gelautz wanted to meet us after the lecture on 11.12.2019. She explained us that she don't want the article to be published. We asked for her reason, but she just told us that she wants to postponed the publishing till summer semester. Told us that she is impressed, however she asked her wish to be respected.
+On 13/11/2019 we met Margit Gelautz and explained her our project and aim of the project and we asked her to participate. The article about Gelautz was finished on time and showed to the other team, however Margrit Gelautz wanted to meet us after the lecture on 11/12/2019. She explained us that she don't want the article to be published. We asked for her reason, but she just told us that she wants to postponed the publishing till summer semester. Told us that she is impressed, however she asked her wish to be respected.
 #### Margit Pohl
-We contacted Professor Margit Pohl informing her about our ambitions to create a Wikipedia article about her. We asked if there were any more information about her online. On 04.12.2019 she provided various web-links to useful source material and explained that the rest information is on the IGW TU Wien website.
+We contacted Professor Margit Pohl informing her about our ambitions to create a Wikipedia article about her. We asked if there were any more information about her online. On 04/12/2019 she provided various web-links to useful source material and explained that the rest information is on the IGW TU Wien website.
 
 ## Professors
 #### Published Articles

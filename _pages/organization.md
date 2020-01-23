@@ -20,6 +20,12 @@ permalink: /organization/
 - Vasilena: [\[ODS\]](../../assets/TimeTables/TimeTable_Vasilena.ods)
 - Daniella: [\[ODS\]](../../assets/TimeTables/TimeTable_Daniella.ods)
 
+###  Wiki Profiles
+- Momo: [\[Wikipedia\]](https://de.wikipedia.org/wiki/Benutzer:Balthasar0007)
+- Eva: [\[Wikipedia\]](https://de.m.wikipedia.org/wiki/Benutzer:Eva9519)
+- Vasilena: [\[Wikipedia\]](https://de.wikipedia.org/wiki/Benutzer:KisV)
+- Daniella: [\[Wikipedis\]](https://de.wikipedia.org/w/index.php?title=Benutzer:Ella.land&action=edit&redlink=1)
+
 ### Accomplishments
 [21.01.2020] - The article on Agata Ciabattoni was published on Wikipedia. Link: [\[Wikipedia: Agata Ciabattoni\]](https://de.wikipedia.org/wiki/Agata_Ciabattoni). The drafts on Astrid Satufer and Inge Troch were peer-reviewed and the articles were published: [\[Wikipedia: Astrid Staufer\]](https://de.wikipedia.org/wiki/Astrid_Staufer) and [\[Wikipedia: Inge Troch\]](https://de.wikipedia.org/wiki/Inge_Troch)
 

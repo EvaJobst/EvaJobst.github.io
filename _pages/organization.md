@@ -20,7 +20,7 @@ permalink: /organization/
 - Vasilena: [\[ODS\]](../../assets/TimeTables/TimeTable_Vasilena.ods)
 - Daniella: [\[ODS\]](../../assets/TimeTables/TimeTable_Daniella.ods)
 
-###  Wiki Profiles
+###  Wiki Profiles 
 - Momo: [\[Wikipedia\]](https://de.wikipedia.org/wiki/Benutzer:Balthasar0007)
 - Eva: [\[Wikipedia\]](https://de.m.wikipedia.org/wiki/Benutzer:Eva9519)
 - Vasilena: [\[Wikipedia\]](https://de.wikipedia.org/wiki/Benutzer:KisV)

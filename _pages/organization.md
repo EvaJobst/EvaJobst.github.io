@@ -21,16 +21,28 @@ permalink: /organization/
 - Daniella: [\[ODS\]](../../assets/TimeTables/TimeTable_Daniella.ods)
 
 ### Accomplishments
+[10/01/2020] - The article on Susanne Zeilinger-Migsich was published.
 
-[11/12/2019] - The article about Gelautz was finished on time and showed to the other team, however Margrit Gelautz wanted to meet us after the lecture on 11.12.2019. She explained us that she don`t want the article to be published. We asked for her reason, but she just told us that she wants to postponed  the publishing till summer semester. Told us that she is impressed, however she asked her wish to be respected.
+[09/01/2020] - The article of Alexia Fürnkranz-Prskawetz was pubished. Same day the article bout Margit POhl was also published. And the peer-review on Susanne Zeilinger-Migsich was finished.
+
+[07/01/2020] - The article about Monika Ludwig was published.
+
+[05/01/2020] - Drafts of Susanne Zeilinger-Migsich and Inge Troch were forwarded for peer-review.
+
+[04/01/2020] - The article about Sabine Theresia Köszegi was published on [\[Wikipedia\]](https://de.wikipedia.org/wiki/Sabine_Theresia_K%C3%B6szegi). The drafts about Monika Ludwig and Margit Pohl were forwarded for peer-review. Both were peer-reviewed in the same day.
+
+[03/01/2020] - Draft on Sabine Theresia Köszegi was finished and forwarded for peer-review. It was reviewed on the same day and ready for publishing.New candidates for articles were added to our list.
+
+[29/12/2019] - "Missing quality" tag was removed from the article of Hilda Tellioğlu and it was officially released.
 
 [09/12/2019] - Publishing article on Hilda Tellioğlu. Got marked as "Wikifizieren" (missing some quality requirements) just 6 minutes later 🥳
 
 [06/12/2019] - The draft document on Hilda Tellioğlu is now finished and ready to be reviewed by our Gelautz-Team. It's current state can be seen here: [\[PDF\]](../../assets/Drafts/Hilda Tellioglu/Merged - Draft - Tellioglu.pdf) [\[ODT\]](../../assets/Drafts/Hilda Tellioglu/Merged - Draft - Tellioglu.odt)
 
-[05/12/2019] English version on the document about Geraldine Fitzpartick was finished.
+[05/12/2019] - English version on the document about Geraldine Fitzpartick was finished./ Peer-review on Margrit Gelautz article was finished.
 
-[04/12/2019] - We contacted Professor Margit Pohl informing her about our ambitions to create a Wikipedia article about her. We asked if there were any more information about her online. She happily provided various web-links to useful source material and stated how thrilled she was about our project.
+[04/12/2019] - We contacted Professor Margit Pohl informing her about our ambitions to create a Wikipedia article about her. We asked if there were any more information about her online. She happily provided various web-links to useful source material and stated how thrilled she was about our project./ Also draft on Margrit Gelautz was finished and forwarded for peer-review.
+
 
 [03/12/2019] - Draft documents on Hilda Tellioğlu and Margit Gelautz are being created. A very early draft on Hilda Tellioğlu's research topics and publications can be seen here: [\[PDF\]](../../assets/Drafts/Hilda Tellioglu/Momo - Draft - Tellioglu.pdf) [\[ODT\]](../../assets/Drafts/Hilda Tellioglu/Momo - Draft - Tellioglu.odt)
 

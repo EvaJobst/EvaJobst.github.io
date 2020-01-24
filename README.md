@@ -1,0 +1,2 @@
+# Putting Austrian academicians on Wikipedia
+We gathered information on various interesting academicians that are working in Austria, compiled coherent texts about them and published the information on Wikipedia.
